@@ -14,5 +14,5 @@ Unzip emotion_model_h5/emotion_model_hdf5 and copy contents to source directory.
 Run using command <pre>python run.py</pre>
 
 <h2>Demo</h2>
-[link text](https://youtu.be/3WjgtzhbPFI "title")
+Demo provided at https://youtu.be/3WjgtzhbPFI
 
